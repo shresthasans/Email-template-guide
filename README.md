@@ -13,6 +13,10 @@ Now, run `gulp` from same CMD window. It will open the project server:
 
 Continue working, as soon as you save - it will compile CSS, and Refresh HTML too.
 
+##### Gulp Tasks
+- `gulp` - Compiles the development files and generate the production ready files.
+- `gulp styleguide` - Generate the styleguides with *styleguide* folder on root path.
+
 
 
 
