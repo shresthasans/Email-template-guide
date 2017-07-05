@@ -6818,7 +6818,8 @@ table.halfwidth {
   border-bottom: 1px solid #e6e6e8;
   font-size: 1.2em;
   line-height: 1.5em;
-  color: #717a8a; }
+  color: #717a8a;
+  width: 100%; }
 
 table.halfwidth thead {
   background: #242b33;
